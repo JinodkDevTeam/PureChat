@@ -2,6 +2,8 @@
 
 PureChat by 64FF00 is a plugin for PurePerms that provides custom chat format for server owners.
 
+This repo is made for API 4.0.0
+
 # Commands
 
 Command | Description | Permission
